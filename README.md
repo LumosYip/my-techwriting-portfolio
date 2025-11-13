@@ -1,2 +1,2 @@
-# my-docs-portal
+# my-techwriting-portfolio
 For practice only
