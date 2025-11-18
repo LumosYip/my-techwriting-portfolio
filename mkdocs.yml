@@ -1,0 +1,15 @@
+site_name: Lumos's Docs
+site_description: A personal documentation portal
+site_author: Lumos
+
+theme:
+  name: material
+
+nav:
+  - Homepage: index.md
+
+  - Technical Writing:
+      - Workflow: "Technical Writing/Workflow/Working Procedures.md"
+
+  - Translation:
+      - Matecat: "Translation/Matecat.md"
