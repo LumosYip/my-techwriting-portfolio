@@ -4,12 +4,27 @@ site_author: Lumos
 
 theme:
   name: material
+  
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - footnotes
+  - def_list
 
 nav:
   - Homepage: index.md
 
-  - Technical Writing:
-      - Workflow: "Technical Writing/Workflow/Working Procedures.md"
+  - Technical Writing: 
+      - "Technical Writing/Steps to Update GitHub.md"
+      - "Technical Writing/Tips to Write Markdown Docs.md"
 
   - Translation:
-      - Matecat: "Translation/Matecat.md"
+      - "Translation/Matecat.md"
+      - "Translation/Localization Notes.md"
+      - "Translation/Overview.md"
+      
+  - Tools: "Tools/Tools.md"
+  
+  
+      

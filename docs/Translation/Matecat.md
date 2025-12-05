@@ -1,33 +1,49 @@
-# Computer-Aided Translation (CAT)
-
-## Matecat
-
-### 1. About Matecat
+### 1. Overview
 
 Matecat is a free and open-source online computer-aided translation (CAT) tool that enhances the efficiency of human translators.
 
-### Requirements
+---
 
-Matecat is an online tool, requiring only:
+### 2. Requirements
+
+Matecat is an online tool, requiring:
 
 	- A web browser
 	- An internet connection
 	
-### Workflow
+---
 
-#### Project Settings
+### 3. Workflow
+
+1) Project Settings
   
-#### Translation
+
+2) Translation
 		
 - **Translation Machine (TM)**
 
-Use .TMX to match the text
+  Upload `.tmx` files to leverage existing translations. 
+  
+  Suggested matches will automatically appear in the editor.
 
 - **Glossary**
 
-#### Aligning
+  Add or import terminology to ensure consistency.  
+  
+  Glossary terms are underlined during translation.
 
-### Official Website
+3) Alignment
+
+  Matecat allows to align bilingual documents and export them as TMX files, which can then be reused in future translation projects.
+
+![Aligner Interface](Images/Aligner.jpg "Matecat Aligner Interface")
+
+*Figure 1. Matecat Aligner interface*
+
+
+---
+
+### 4. Official Website
 
 https://www.matecat.com/
 
